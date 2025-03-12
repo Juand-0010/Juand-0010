@@ -1,6 +1,8 @@
 ## 👋 Hola, soy Juan Diego García Viedma
 
-Soy un estudiante de Ingeniería de Software en la Universidad Libre, apasionado por el desarrollo backend y el análisis de datos. Me interesa la administración de la cadena de suministro (SCM), la inteligencia artificial y el desarrollo de software eficiente.
+Soy estudiante de Ingeniería de Software en la Universidad Libre, con una fuerte pasión por el desarrollo backend, el análisis de datos y la inteligencia artificial. Me interesa la creación de software eficiente, optimizado y escalable, aplicando buenas prácticas de arquitectura y programación.
+
+Disfruto enfrentar desafíos tecnológicos, explorar nuevas herramientas y mejorar continuamente mis habilidades en desarrollo de sistemas. Además, me interesa la automatización de procesos, el procesamiento de datos a gran escala y la implementación de soluciones basadas en inteligencia artificial para optimizar el rendimiento y la toma de decisiones.
 
 - 🔭 Actualmente trabajando con **Node.js, MongoDB, PHP y Laravel**.
 - 📖 Aprendiendo **Laravel y administración de bases de datos**.
@@ -71,7 +73,7 @@ Soy un estudiante de Ingeniería de Software en la Universidad Libre, apasionado
 
 ---
 
-<i>"No tree, it is said, can grow to heaven unless its roots are in hell."</i>
+<i>Only those who have faced the darkness can grow enough to reach the sky</i>
 
 ---
 

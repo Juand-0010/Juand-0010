@@ -1,4 +1,4 @@
-## 👋 Hola, soy Juan Diego García Viedma
+## 👋 Hola, soy Juan Viedma
 
 Soy estudiante de Ingeniería de Software en la Universidad Libre, con una fuerte pasión por el desarrollo backend, el análisis de datos y la inteligencia artificial. Me interesa la creación de software eficiente, optimizado y escalable, aplicando buenas prácticas de arquitectura y programación.
 

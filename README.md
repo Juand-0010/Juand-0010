@@ -1,23 +1,24 @@
-## 👋 Hola, soy Juan Diego García Viedma  
+## 👋 Hi, I’m Juan Diego García Viedma  
+
+
+🎓 Student of **Systems Engineering and Industrial Engineering** at Universidad Libre – Cali Campus.  
+💻 Passionate about **backend development**, **mobile applications**, **data analysis**, **networks**, and **artificial intelligence applied to real-world systems**.
 
 <p align="center">
-<img src=¨https://www.freepik.es/fotos/programador-animado¨>
+  <img src="https://raw.githubusercontent.com/Juand-0010/Juand-0010/main/e019c133-7ad4-4d8e-937e-24cf9154629b.png" width="100%" />
 </p>
 
-🎓 Estudiante de **Ingeniería de Sistemas e Ingeniería Industrial** en la Universidad Libre – Seccional Cali.  
-💻 Apasionado por el **desarrollo backend**, **aplicaciones móviles**, **análisis de datos**, **redes** y la **inteligencia artificial aplicada a sistemas reales**.
+I focus on designing **efficient, scalable, and well-structured software solutions**, applying best practices in programming, architecture, and security. I enjoy tackling technical challenges, learning new technologies, and transforming ideas into functional applications.
 
-Me enfoco en diseñar soluciones de software **eficientes, escalables y bien estructuradas**, aplicando buenas prácticas de programación, arquitectura y seguridad. Disfruto enfrentar retos técnicos, aprender nuevas tecnologías y transformar ideas en aplicaciones funcionales.
-
-- 🔭 Actualmente trabajando con **Node.js, MongoDB y C#**  
-- 📱 Desarrollo de **aplicaciones móviles Android** con arquitectura **MVVM**  
-- 🧠 Interés en **IA, sistemas de recomendación y automatización**  
-- 🌐 Conocimientos en **redes, Cisco IOS y fundamentos de ciberseguridad**  
-- ⚡ Explorando constantemente **nuevas tecnologías y metodologías ágiles**
+- 🔭 Currently working with **Node.js, MongoDB, and C#**  
+- 📱 Android mobile app development using **MVVM architecture**  
+- 🧠 Strong interest in **AI, recommendation systems, and automation**  
+- 🌐 Knowledge of **networks, Cisco IOS, and cybersecurity fundamentals**  
+- ⚡ Constantly exploring **new technologies and agile methodologies**
 
 ---
 
-### 🚀 Tecnologías y herramientas
+### 🚀 Technologies & Tools
 
 <p align="center"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
@@ -35,20 +36,20 @@ Me enfoco en diseñar soluciones de software **eficientes, escalables y bien est
 
 ---
 
-### 📌 Habilidades principales
+### 📌 Core Skills
 
-- 🔹 **Lenguajes:** Python, JavaScript, C#, PHP, Java  
-- 🔹 **Backend:** Node.js, Laravel, APIs REST  
+- 🔹 **Programming Languages:** Python, JavaScript, C#, PHP, Java  
+- 🔹 **Backend:** Node.js, Laravel, REST APIs  
 - 🔹 **Mobile:** Android Studio, MVVM, ViewModel, LiveData  
-- 🔹 **Bases de datos:** MongoDB, MySQL, MariaDB  
-- 🔹 **IA & Datos:** Fundamentos de IA, sistemas de recomendación, procesamiento de datos  
-- 🔹 **Redes:** Fundamentos de redes, Cisco IOS  
-- 🔹 **Ciberseguridad:** Infraestructura crítica, seguridad informática básica  
-- 🔹 **Herramientas:** Git, GitHub, Linux, VS Code, Android Studio, Visual Studio  
+- 🔹 **Databases:** MongoDB, MySQL, MariaDB  
+- 🔹 **AI & Data:** AI fundamentals, recommendation systems, data processing  
+- 🔹 **Networking:** Networking fundamentals, Cisco IOS  
+- 🔹 **Cybersecurity:** Critical infrastructure, basic information security  
+- 🔹 **Tools:** Git, GitHub, Linux, VS Code, Android Studio, Visual Studio  
 
 ---
 
-### 📫 Contacto
+### 📫 Contact
 
 <p align="center">
   <a href="mailto:juanviedma9@gmail.com">
@@ -66,4 +67,4 @@ Me enfoco en diseñar soluciones de software **eficientes, escalables y bien est
 
 <i>Only those who have faced the darkness can grow enough to reach the sky</i>
 
-📅 Última edición: 05/01/2026
+📅 Last updated: 05/01/2026

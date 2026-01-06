@@ -5,7 +5,7 @@
 
 Me enfoco en diseñar soluciones de software **eficientes, escalables y bien estructuradas**, aplicando buenas prácticas de programación, arquitectura y seguridad. Disfruto enfrentar retos técnicos, aprender nuevas tecnologías y transformar ideas en aplicaciones funcionales.
 
-- 🔭 Actualmente trabajando con **Node.js, Android (Kotlin), MongoDB y C#**  
+- 🔭 Actualmente trabajando con **Node.js, MongoDB y C#**  
 - 📱 Desarrollo de **aplicaciones móviles Android** con arquitectura MVVM  
 - 🧠 Interés en **IA, sistemas de recomendación y automatización**  
 - 🌐 Conocimientos en **redes, Cisco IOS y fundamentos de ciberseguridad**  

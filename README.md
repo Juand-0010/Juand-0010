@@ -114,7 +114,6 @@ Infrastructure & Security:
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Juand-0010&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juand-0010&layout=compact&theme=tokyonight&hide_border=true" />
 </p>

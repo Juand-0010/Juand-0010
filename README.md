@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-🎓 Dual-degree student in **Systems Engineering** and **Industrial Engineering** at *Universidad Libre – Cali Campus*.
+🎓 Dual-degree student in **Systems Engineering** at *Universidad Libre – Cali Campus*.
 
 I specialize in building **scalable backend systems**, **Android applications**, and **data-driven solutions** focused on automation and real-world impact.
 

@@ -1,76 +1,81 @@
 # 👨‍💻 Juan Diego García Viedma
 
-<p align="left">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Backend+Developer;Android+Developer;AI+%26+Automation+Enthusiast;Systems+%26+Industrial+Engineering+Student" alt="Typing SVG" />
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/juan-viedma/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/Backend-Node.js%20%7C%20.NET-0f172a?style=flat-square" />
-  <img src="https://img.shields.io/badge/Mobile-Android%20Development-16a34a?style=flat-square" />
-  <img src="https://img.shields.io/badge/AI-Data%20%26%20Automation-7c3aed?style=flat-square" />
-  <img src="https://img.shields.io/badge/Location-Cali,%20Colombia-059669?style=flat-square" />
+  
+  <a href="mailto:juanviedma9@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://wa.me/573197442254">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Juand-0010&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-🎓 Dual-degree student in **Systems Engineering** at *Universidad Libre – Cali Campus*.
+🎓 Dual-degree student in **Systems Engineering** and **Industrial Engineering** at **Universidad Libre – Cali Campus**.
 
-I specialize in building **scalable backend systems**, **Android applications**, and **data-driven solutions** focused on automation and real-world impact.
+💡 Passionate about building:
 
-My interests combine:
+- ⚙️ Scalable backend systems
+- 📱 Android applications
+- 🤖 AI-powered solutions
+- 📊 Data-driven automation
+- 🔐 Secure and efficient software architectures
 
-- ⚙️ Backend Engineering
-- 📱 Mobile Development
-- 🤖 Artificial Intelligence
-- 📊 Data Analysis
-- 🔐 Cybersecurity & Infrastructure
-
-I enjoy transforming complex problems into efficient, secure, and maintainable software solutions using clean architecture and modern development practices.
+I enjoy solving complex problems through clean code, modern architectures, and scalable technologies.
 
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Juand-0010/Juand-0010/main/e019c133-7ad4-4d8e-937e-24cf9154629b.png" width="100%" alt="Banner"/>
+  <img src="https://raw.githubusercontent.com/Juand-0010/Juand-0010/main/e019c133-7ad4-4d8e-937e-24cf9154629b.png" width="100%" />
 </p>
 
 ---
 
 # 🛠️ Tech Stack
 
-### 💻 Languages
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/>
+## 💻 Languages
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,javascript,cs,kotlin,java,php" />
 </p>
 
-### ⚙️ Backend & Frameworks
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" width="40"/>
+## ⚙️ Backend & Frameworks
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,dotnet,laravel,express" />
 </p>
 
-### 📱 Mobile Development
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="40"/>
+## 📱 Mobile Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin" />
 </p>
 
-### 🗄️ Databases
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
+## 🗄️ Databases
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
-### 🧰 Tools & Systems
-<p>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
+## 🧰 Tools & Systems
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
 </p>
 
 ---
@@ -109,22 +114,13 @@ Infrastructure & Security:
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Juand-0010&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" 
-    height="165"
-  />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Juand-0010&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juand-0010&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" 
-    height="165"
-  />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juand-0010&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Juand-0010&theme=tokyonight&hide_border=true" 
-    height="165"
-  />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Juand-0010&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -132,10 +128,18 @@ Infrastructure & Security:
 # 🌱 Currently Learning
 
 - Advanced backend architecture
-- AI-powered systems & automation
+- AI & automation systems
 - Cloud & DevOps fundamentals
-- Secure software development
+- Cybersecurity & secure development
 - Data engineering workflows
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
 
 ---
 
@@ -143,22 +147,20 @@ Infrastructure & Security:
 
 <p align="center">
   <a href="mailto:juanviedma9@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
   <a href="https://www.linkedin.com/in/juan-viedma/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
   <a href="https://wa.me/573197442254">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <i>
-    "Building technology with purpose, scalability, and impact."
-  </i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:3B82F6&height=120&section=footer"/>
 </p>

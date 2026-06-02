@@ -26,7 +26,7 @@
 
 # 🚀 About Me
 
-🎓 Dual-degree student in **Systems Engineering** and **Industrial Engineering** at **Universidad Libre – Cali Campus**.
+🎓 Degree student in **Systems Engineering** at **Universidad Libre – Cali Campus**.
 
 💡 Passionate about building:
 

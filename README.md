@@ -1,6 +1,10 @@
 # Juan Diego Garcia Viedma
 
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=140&section=header&text=Juan%20Diego%20Garcia%20Viedma&fontColor=FFFFFF&fontSize=34&animation=fadeIn&fontAlignY=36" alt="Animated profile header" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3200&pause=900&color=2563EB&center=true&vCenter=true&width=850&lines=Backend+Developer;Android+Developer;AI+and+Automation+Enthusiast;Systems+Engineering+Student" alt="Typing animation" />
 </p>
 
@@ -14,6 +18,10 @@
   <a href="https://github.com/Juand-0010">
     <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Juand-0010&label=Profile%20views&color=2563EB&style=flat" alt="Profile views" />
 </p>
 
 ## About Me
@@ -87,6 +95,12 @@ Highlights:
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Juand-0010&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
+## Contribution Flow
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution animation" />
+</p>
+
 ## Contact
 
 <p align="center">
@@ -96,4 +110,8 @@ Highlights:
   <a href="https://www.linkedin.com/in/juan-viedma/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0F172A&height=100&section=footer" alt="Animated footer" />
 </p>

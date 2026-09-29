@@ -1,117 +1,65 @@
-# Juan Diego Garcia Viedma
+![Juan Diego García Viedma. Ingeniería de Sistemas, desarrollo web, Python y automatización.](assets/header.svg)
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=140&section=header&text=Juan%20Diego%20Garcia%20Viedma&fontColor=FFFFFF&fontSize=34&animation=fadeIn&fontAlignY=36" alt="Animated profile header" />
-</p>
+[Proyectos](#proyectos-destacados) · [Tecnologías](#tecnologías) · [English](#english) · [LinkedIn](https://www.linkedin.com/in/juan-viedma/) · [Correo](mailto:juanviedma9@gmail.com)
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3200&pause=900&color=2563EB&center=true&vCenter=true&width=850&lines=Backend+Developer;Android+Developer;AI+and+Automation+Enthusiast;Systems+Engineering+Student" alt="Typing animation" />
-</p>
+# Juan Diego García Viedma
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/juan-viedma/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:juanviedma9@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://github.com/Juand-0010">
-    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+Estudio Ingeniería de Sistemas en la **Universidad Libre, Seccional Cali**. Me interesa construir aplicaciones web, herramientas en Python y automatizaciones que resuelvan tareas concretas.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Juand-0010&label=Profile%20views&color=2563EB&style=flat" alt="Profile views" />
-</p>
+Aquí comparto proyectos personales y académicos: interfaces con React y JavaScript, flujos de compra simulados y procesamiento de documentos. También exploro el desarrollo backend, Android y el uso de IA en los procesos de trabajo.
 
-## About Me
+## Proyectos destacados
 
-I am a Systems Engineering student at Universidad Libre, Cali Campus. I enjoy building practical software: backend services, Android apps, automation tools, and AI-assisted workflows.
+### Twitch Portfolio — React y Vite
 
-My focus is writing clean, useful code that solves real problems and can keep growing over time.
+Presentación de un canal dedicado a rompecabezas 3D y videojuegos. Incluye navegación por secciones, diseño adaptable y publicación automática con GitHub Actions.
 
-## What I Work With
+**[Ver demo](https://juand-0010.github.io/twitch-portfolio-react/)** · [Explorar código](https://github.com/Juand-0010/twitch-portfolio-react)
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,cs,kotlin,java,php,nodejs,dotnet,laravel,express,mongodb,mysql,git,github,linux,vscode,androidstudio" alt="Tech stack icons" />
-</p>
+### Brasa Norte — HTML, CSS y JavaScript
 
-```yaml
-Backend:
-  - Node.js
-  - REST APIs
-  - .NET / C#
-  - Laravel
+Prototipo de una web de restaurante con menú por categorías, carrito con cantidades y persistencia en el navegador. Calcula subtotal, envío y total e incluye un flujo de pedido simulado.
 
-Mobile:
-  - Android Studio
-  - Kotlin
-  - Java
-  - MVVM basics
+[Explorar código](https://github.com/Juand-0010/restaurante-web)
 
-Data and Automation:
-  - Python
-  - Data processing
-  - Workflow automation
-  - AI-assisted tools
+### Contador de palabras y vocales en PDF — Python
 
-Tools:
-  - Git and GitHub
-  - Linux environments
-  - VS Code
-  - MySQL and MongoDB
-```
+Herramienta de consola para leer documentos PDF, buscar palabras y contar vocales seleccionadas. Usa PyPDF2 y reúne los resultados en una matriz.
 
-## Featured Project
+[Explorar código](https://github.com/Juand-0010/contador-pdf-python)
 
-### [restaurante-web](https://github.com/Juand-0010/restaurante-web)
+[Ver todos mis repositorios](https://github.com/Juand-0010?tab=repositories)
 
-A static restaurant website with a menu, shopping cart, checkout form, and simulated order flow.
+## Tecnologías
 
-Highlights:
+| Área | Herramientas |
+| --- | --- |
+| Proyectos destacados | React, Vite, JavaScript, HTML, CSS, Python, PyPDF2 |
+| Backend que exploro | Node.js, APIs REST, .NET / C#, Laravel |
+| Desarrollo móvil que exploro | Kotlin, Java, Android Studio, fundamentos de MVVM |
+| Datos y herramientas | MySQL, MongoDB, Git, GitHub, Linux, VS Code |
 
-- Responsive landing page for a restaurant.
-- Product menu filtered by category.
-- Shopping cart with quantities, subtotal, delivery fee, and total.
-- Simulated order confirmation with order status updates.
-- Built with HTML, CSS, and JavaScript.
+## En qué estoy profundizando
 
-## Currently Learning
+Me interesa conectar lo que aprendo con proyectos que se puedan ejecutar y revisar: arquitectura backend, automatización con Python, fundamentos de cloud y DevOps, y desarrollo seguro. También estoy explorando flujos de datos y herramientas de IA.
 
-- Advanced backend architecture.
-- Cloud and DevOps fundamentals.
-- Cybersecurity and secure development.
-- Data engineering workflows.
-- AI and automation systems.
+## Contacto
 
-## GitHub Analytics
+Puedes escribirme sobre los proyectos o intercambiar ideas de desarrollo.
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Juand-0010&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juand-0010&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
+[juanviedma9@gmail.com](mailto:juanviedma9@gmail.com) · [LinkedIn](https://www.linkedin.com/in/juan-viedma/)
 
-<p align="center">
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Juand-0010&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
+## English
 
-## Contribution Flow
+<details>
+<summary>About me and selected projects</summary>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution animation" />
-</p>
+I am a Systems Engineering student at Universidad Libre, Cali campus. I build personal and academic projects with JavaScript, React and Python, and explore backend development, Android and automation.
 
-## Contact
+- **[Twitch Portfolio](https://github.com/Juand-0010/twitch-portfolio-react):** a responsive React and Vite website with automated GitHub Pages deployment. [Live demo](https://juand-0010.github.io/twitch-portfolio-react/).
+- **[Brasa Norte](https://github.com/Juand-0010/restaurante-web):** a restaurant website prototype with category filters, a persistent shopping cart and a simulated ordering flow.
+- **[PDF word and vowel counter](https://github.com/Juand-0010/contador-pdf-python):** a Python console tool using PyPDF2 to analyze text from PDF documents.
 
-<p align="center">
-  <a href="mailto:juanviedma9@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/juan-viedma/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+[Email](mailto:juanviedma9@gmail.com) · [LinkedIn](https://www.linkedin.com/in/juan-viedma/)
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0F172A&height=100&section=footer" alt="Animated footer" />
-</p>
+</details>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Juan Diego García Viedma</title>
+  <desc id="desc">Ingeniería de Sistemas. Desarrollo web, Python y automatización.</desc>
+  <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101c32"/><stop offset="1" stop-color="#08101d"/></linearGradient></defs>
+  <rect width="1200" height="300" rx="24" fill="url(#bg)"/>
+  <g fill="none" stroke="#264464"><path d="M820 0v300M900 0v300M980 0v300M1060 0v300M1140 0v300M780 60h420M780 140h420M780 220h420"/><circle cx="1010" cy="150" r="104"/><circle cx="1010" cy="150" r="72"/></g>
+  <path d="m983 122-28 28 28 28m54-56 28 28-28 28m-16-67-20 78" fill="none" stroke="#5eead4" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="52" y="52" width="40" height="4" rx="2" fill="#5eead4"/>
+  <g font-family="Segoe UI, Arial, sans-serif"><text x="52" y="95" fill="#5eead4" font-size="15" letter-spacing="3">JUAND-0010 / INGENIERÍA DE SISTEMAS</text><text x="50" y="160" fill="#f1f5f9" font-size="45" font-weight="700">Juan Diego García Viedma</text><text x="52" y="205" fill="#b8c9dd" font-size="22">Desarrollo web · Python · Automatización</text><text x="52" y="260" fill="#90a7c1" font-size="15">Universidad Libre · Seccional Cali</text></g>
+</svg>
